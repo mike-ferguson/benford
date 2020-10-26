@@ -1,11 +1,11 @@
 
 Determines if specific Data conform to Benford's Law.
 
-Benford's Law states(from Wikipedia):
+Benford's Law states (from Wikipedia):
 
-Benford's Law, also called the Newcomb–Benford law, the law of anomalous numbers, or the first-digit law, is an observation about the frequency distribution of leading digits in many real-life sets of numerical data. The law states that in many naturally occurring collections of numbers, the leading digit is likely to be small.
+*Benford's Law, also called the Newcomb–Benford law, the law of anomalous numbers, or the first-digit law, is an observation about the frequency distribution of leading digits in many real-life sets of numerical data. The law states that in many naturally occurring collections of numbers, the leading digit is likely to be small.*
 
-Teh fequencies of the Digits are sumamrized by the equation p(d) = log10(d+1/d), where d is the digit 1-9.
+The fequencies of the digits are summarized by the equation *p(d) = log10((d+1)/d)*, where d are the digits 1-9.
 
 The main purpose of this code is to tell whether or not a dataset has been corrupted or is fradualent, as it is suspicous if it does not obey the above law.
 
