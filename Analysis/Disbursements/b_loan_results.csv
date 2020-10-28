@@ -1,0 +1,4 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,sb_loan.csv,NoEmp,3.175599892198216,0.9228590301581365,Obeyed
+1,sb_loan.csv,CreateJob,10.732386941277868,0.21732838883044325,Obeyed
+2,sb_loan.csv,RetainedJob,3.6176982107231206,0.889865630034879,Obeyed

@@ -1,0 +1,3 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,SalesKaggle3.csv,SoldCount,65.0535584604315,4.709821421755578e-11,Not Obeyed
+1,SalesKaggle3.csv,ItemCount,10.784354653503062,0.2142198773295152,Obeyed

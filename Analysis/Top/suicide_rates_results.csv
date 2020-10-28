@@ -1,0 +1,5 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,master.csv,suicides_no,0.2420427929117747,0.9999918852404317,Obeyed
+1,master.csv,population,1.8975248933727196,0.9839938638550383,Obeyed
+2,master.csv,suicides/100k pop,0.1647535147383052,0.999998203503432,Obeyed
+3,master.csv,gdp_per_capita ($),2.3318657802528406,0.9691107503806236,Obeyed

@@ -1,0 +1,3 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,sales_data_sample.csv,QUANTITYORDERED,140.7538757830641,0.0,Not Obeyed
+1,sales_data_sample.csv,SALES,22.279068261455468,0.00442429827234303,Not Obeyed

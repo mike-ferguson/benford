@@ -1,0 +1,9 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,diabetes.csv,Pregnancies,0.8642197572981966,0.9989692735955751,Obeyed
+1,diabetes.csv,Glucose,133.837167862889,0.0,Not Obeyed
+2,diabetes.csv,BloodPressure,296.8794544770332,0.0,Not Obeyed
+3,diabetes.csv,SkinThickness,71.4466195330504,2.5305313400281193e-12,Not Obeyed
+4,diabetes.csv,Insulin,9.524423303985154,0.3000026836803773,Obeyed
+5,diabetes.csv,BMI,183.19095319761388,0.0,Not Obeyed
+6,diabetes.csv,DiabetesPedigreeFunction,6.215646039205643,0.6230903437573463,Obeyed
+7,diabetes.csv,Age,121.38940470187427,0.0,Not Obeyed

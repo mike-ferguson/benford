@@ -1,0 +1,2 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,loan_disbursement.csv,amount,89.64155143299831,5.551115123125783e-16,Not Obeyed

@@ -1,0 +1,12 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,ibm.csv,MonthlyRate,23.9336364982212,0.00235124390084418,Not Obeyed
+1,ibm.csv,PercentSalaryHike,151.32386202175988,0.0,Not Obeyed
+2,ibm.csv,DailyRate,18.525442699905515,0.017614309266014372,Not Obeyed
+3,ibm.csv,DistanceFromHome,18.879203279024832,0.015519190160133145,Not Obeyed
+4,ibm.csv,MonthlyIncome,11.239141107538828,0.1885138169850913,Obeyed
+5,ibm.csv,StockOptionLevel,95.98756777052382,0.0,Not Obeyed
+6,ibm.csv,TotalWorkingYears,12.587194139467616,0.12686439655232185,Obeyed
+7,ibm.csv,YearsAtCompany,6.476895628728242,0.593971514839529,Obeyed
+8,ibm.csv,YearsInCurrentRole,51.17703981932056,2.4258465125548412e-08,Not Obeyed
+9,ibm.csv,YearsSinceLastPromotion,22.49421290666756,0.004078091127764694,Not Obeyed
+10,ibm.csv,YearsWithCurrManager,49.49862167193626,5.101145583719102e-08,Not Obeyed

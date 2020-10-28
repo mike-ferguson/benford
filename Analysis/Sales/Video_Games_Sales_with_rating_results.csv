@@ -1,0 +1,3 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,Video_Games_Sales_with_ratings.csv,Critic_Count,2.186133738219649,0.9747670756944911,Obeyed
+1,Video_Games_Sales_with_ratings.csv,User_Count,2.256363579565652,0.9721264047975859,Obeyed

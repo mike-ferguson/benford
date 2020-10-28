@@ -1,0 +1,6 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,vgsales.csv,NA_Sales,14.133226927261443,0.07835831788308267,Obeyed
+1,vgsales.csv,EU_Sales,22.468155170375912,0.004118585762413751,Not Obeyed
+2,vgsales.csv,JP_Sales,24.926395186209064,0.0015998329845645642,Not Obeyed
+3,vgsales.csv,Other_Sales,35.85941131760624,1.8631846005701114e-05,Not Obeyed
+4,vgsales.csv,Global_Sales,13.080977547429764,0.1090936358862874,Obeyed

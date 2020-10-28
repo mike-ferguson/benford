@@ -1,0 +1,6 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,supermarket_sales.csv,Quantity,19.21939675009513,0.013729337836251632,Not Obeyed
+1,supermarket_sales.csv,Tax 5%,4.93134537705751,0.7648882183926947,Obeyed
+2,supermarket_sales.csv,Total,4.257280474850328,0.8331966603309621,Obeyed
+3,supermarket_sales.csv,cogs,4.292451368181291,0.8298206671830191,Obeyed
+4,supermarket_sales.csv,gross income,4.93134537705751,0.7648882183926947,Obeyed

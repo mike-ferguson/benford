@@ -1,0 +1,7 @@
+,Dataset,Col Name,Chi_Sq Val,P-value,Pass/Fail
+0,kc_house_data.csv,sqft_living,44.32151633673055,4.946564496899342e-07,Not Obeyed
+1,kc_house_data.csv,sqft_lot,28.58053523235671,0.0003755664995653829,Not Obeyed
+2,kc_house_data.csv,sqft_above,49.2259615283153,5.7541389653081865e-08,Not Obeyed
+3,kc_house_data.csv,sqft_basement,20.607141471090138,0.008267575876018562,Not Obeyed
+4,kc_house_data.csv,sqft_living15,73.30169145261564,1.0785816684233396e-12,Not Obeyed
+5,kc_house_data.csv,sqft_lot15,37.446206426425384,9.525392305365088e-06,Not Obeyed
